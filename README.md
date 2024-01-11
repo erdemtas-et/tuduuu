@@ -13,7 +13,7 @@ The Todo App is a simple task management application that allows users to create
 - **Colored Feedback for completed tasks to achieve better user experience**
 
 ## Technologies Used
-
+- **Language:** [JavaScript](https://ecma-international.org/publications-and-standards/standards/ecma-262/)
 - **Framework:** [React Native](https://reactnative.dev/)
 - **Backend Services:** [Firebase](https://firebase.google.com/)
 - **Form Validation:** [Yup](https://github.com/jquense/yup)
