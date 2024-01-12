@@ -25,9 +25,9 @@ The Todo App is a simple task management application that allows users to create
 
 <div style="display: flex; justify-content: space-between;">
 
-<img src="./src/assets/readme/welcome.png" alt="Welcome Screen" width="300" height="600">
-<img src="./src/assets/readme/main.png" alt="Screen that holds all the todos" width="300" height="600">
-<img src="./src/assets/readme/edit.png" alt="Editing Todo" width="300" height="600">
-<img src="./src/assets/readme/delete.png" alt="Delete Todo Confirmation" width="300" height="600">
+<img src="./src/assets/readme/welcome.png" alt="Welcome Screen" width="294" height="639">
+<img src="./src/assets/readme/main.png" alt="Screen that holds all the todos" width="294" height="639">
+<img src="./src/assets/readme/edit.png" alt="Editing Todo" width="294" height="639">
+<img src="./src/assets/readme/delete.png" alt="Delete Todo Confirmation" width="294" height="639">
 
 </div>
